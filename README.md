@@ -26,7 +26,7 @@ Method -- post
 
 
 payload :{
-email : kodadala.praveen@realvariable.com
+email : kodadala.praveen@realvariable.com,
 otp : 992896
 }
 
