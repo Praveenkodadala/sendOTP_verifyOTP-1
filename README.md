@@ -30,5 +30,10 @@ email : kodadala.praveen@realvariable.com,
 otp : 992896
 }
 
+# commands
+
+npm i
+
+npm run start
 
 
